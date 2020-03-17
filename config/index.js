@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'whale-nCoV',
+  projectName: 'Taro-Kit',
   date: '2020-2-25',
   designWidth: 750,
   deviceRatio: {

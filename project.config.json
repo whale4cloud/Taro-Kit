@@ -1,7 +1,7 @@
 {
 	"miniprogramRoot": "dist/",
-	"projectname": "whale-nCoV",
-	"description": "长松工业园人员信息上报小程序。",
+	"projectname": "Taro-Kit",
+	"description": "Taro-Kit",
 	"appid": "wx88f1eb42a4b69ff7",
 	"setting": {
 		"urlCheck": true,
